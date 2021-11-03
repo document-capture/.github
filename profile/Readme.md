@@ -28,3 +28,6 @@ You can use all provided code as it is, without any warranty or support by me (t
 
 ## Need help? ##
 As these tools can be used free of charge, we are not offering free services. In case you need assitance feel free to contact: sales-dach@continia.com
+
+## Currently used app object ranges and ids ##
+You can find an overview of the object ranges of our provided apps [here](https://github.com/document-capture/.github/blob/main/profile/object_ranges.md).
