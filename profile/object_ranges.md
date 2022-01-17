@@ -11,6 +11,7 @@
 |62000|62010|Document Capture - Field rule assistant|f04eda4f-5cf7-45b0-a49c-ac0baaa9e34e|
 |62021|62021|Document Capture - Approval flow with advanced approval|4d8f3707-ef9d-4fa8-95de-ef68c0fa74b7|
 |62022|62029|Factbox Examples|55396662-7d31-4f32-89da-d6e2958a9b1d|
+|62030|62039|Vendor identification|a1be1931-a235-44b8-afec-a6f2f0c1d419|
 |63010|63011|Continia Partner Demo App|391517ec-0bec-412c-a7d2-2df476b7e77f|
 |63020|63029|Document Capture cross company approval|6b11cf60-8700-44a3-877f-d51926b5c90c|
 |88800|88810|[DEPRECATED]Document Capture QR-Code Management|526feeb5-4f8c-4667-bd6d-60e14a8d66b1|
