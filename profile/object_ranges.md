@@ -7,8 +7,8 @@
 |61101|61109|DC Advanced move to company|54c3a6eb-ca9e-4b06-94ba-89ede9f436cd|
 |61110|61119|[DC Advanced Swiss QR-Code Management](https://github.com/document-capture/swiss-qr-code)|f27aa103-a4c5-4886-a6d0-60134c884e26|
 |61120|61129|[Legal archive for Document Capture](https://github.com/document-capture/legal-archive)|
-|62000|62010|Payment Proposal Document Preview|e3f7da69-87d2-4861-8c5d-e6d39fbd5c67|
-|62000|62010|Document Capture - Field rule assistant|f04eda4f-5cf7-45b0-a49c-ac0baaa9e34e|
+|62000|62009|Document Capture - Field rule assistant|f04eda4f-5cf7-45b0-a49c-ac0baaa9e34e|
+|62010|62019|Payment Proposal Document Preview|e3f7da69-87d2-4861-8c5d-e6d39fbd5c67|
 |62021|62021|Document Capture - Approval flow with advanced approval|4d8f3707-ef9d-4fa8-95de-ef68c0fa74b7|
 |62022|62029|Factbox Examples|55396662-7d31-4f32-89da-d6e2958a9b1d|
 |62030|62039|Vendor identification|a1be1931-a235-44b8-afec-a6f2f0c1d419|
