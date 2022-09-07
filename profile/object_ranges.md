@@ -7,6 +7,7 @@
 |61101|61109|DC Advanced move to company|54c3a6eb-ca9e-4b06-94ba-89ede9f436cd|
 |61110|61119|[DC Advanced Swiss QR-Code Management](https://github.com/document-capture/swiss-qr-code)|f27aa103-a4c5-4886-a6d0-60134c884e26|
 |61120|61129|[Legal archive for Document Capture](https://github.com/document-capture/legal-archive)|
+|61130|61139|[Reprocess pdf files with PowerAutomate](https://github.com/document-capture/reprocess-pdf-with-powerautomate)|3573311b-cb47-48e4-bfc3-5249f890fc14|
 |62000|62009|Document Capture - Field rule assistant|f04eda4f-5cf7-45b0-a49c-ac0baaa9e34e|
 |62010|62019|Payment Proposal Document Preview|e3f7da69-87d2-4861-8c5d-e6d39fbd5c67|
 |62021|62021|Document Capture - Approval flow with advanced approval|4d8f3707-ef9d-4fa8-95de-ef68c0fa74b7|
