@@ -16,6 +16,8 @@ The code will be unregularly maintained or updated.
   > Do you need often help/examples of advanced field rules with regular expressions? This app helps users to select a complex field rule from a list of pre defined rules
 - [Swiss QR Code integration](https://github.com/document-capture/Swiss-QR-Code-integration)
   > For our Swiss customers we have prepared an example how to process the QR code from incoming invoices
+- [Broken pdf reprocessing](https://github.com/document-capture/reprocess-pdf-with-powerautomate)
+  > A proof of concept that enables customers to send broken pdfs (with bad/no OCR results) to an automated reprocessing based on Microsoft Power Automate
 - [Factbox examples](https://github.com/document-capture/factbox-examples)
   > If you want to add our Document Capture factboxes on other pages, you can use these examples to enhance your own solution
 - [Approval flow with advanced approval](https://github.com/document-capture/approval-flow-with-advanced-approval)
