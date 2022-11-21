@@ -12,10 +12,12 @@ The code will be unregularly maintained or updated.
   > Enhance Document Capture with a few usefull options that will enable you to process most likely 99% of all documents.
 - [Automatic PO number identification](https://github.com/document-capture/Automatic-PO-number-identification)
   > Do you need to process purchase invoices that has order number references in the invoice lines but do not want to use line recognition? Try this app!
-- [Field rule assistant](https://github.com/document-capture/field-rule-assistant)
-  > Do you need often help/examples of advanced field rules with regular expressions? This app helps users to select a complex field rule from a list of pre defined rules
 - [Swiss QR Code integration](https://github.com/document-capture/Swiss-QR-Code-integration)
   > For our Swiss customers we have prepared an example how to process the QR code from incoming invoices
+- [Field rule assistant](https://github.com/document-capture/field-rule-assistant)
+  > Do you need often help/examples of advanced field rules with regular expressions? This app helps users to select a complex field rule from a list of pre defined rules
+- [Import OPplus Payment advices](https://github.com/document-capture/Import-OPplus-payment-advices)
+  > Capture and register OPplus Payment advices with Document Capture into payment journals
 - [Broken pdf reprocessing](https://github.com/document-capture/reprocess-pdf-with-powerautomate)
   > A proof of concept that enables customers to send broken pdfs (with bad/no OCR results) to an automated reprocessing based on Microsoft Power Automate
 - [Factbox examples](https://github.com/document-capture/factbox-examples)
