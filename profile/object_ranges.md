@@ -9,6 +9,7 @@
 |61120|61129|[Legal archive for Document Capture](https://github.com/document-capture/legal-archive)|
 |61130|61139|[Reprocess pdf files with PowerAutomate](https://github.com/document-capture/reprocess-pdf-with-powerautomate)|3573311b-cb47-48e4-bfc3-5249f890fc14|
 |61140|61149|[Purchase Contracts Advanced](https://github.com/document-capture/purchase-contracts-advanced)|4dfcc6a8-622e-407c-a715-2cca92ac2568|
+|61150|61159|[Import OPplus payment advices](https://github.com/document-capture/Import-OPplus-payment-advices)|7ff746d9-2474-4ee5-a43e-d3276f8f0419|
 |62000|62009|Document Capture - Field rule assistant|f04eda4f-5cf7-45b0-a49c-ac0baaa9e34e|
 |62010|62019|Payment Proposal Document Preview|e3f7da69-87d2-4861-8c5d-e6d39fbd5c67|
 |62021|62021|Document Capture - Approval flow with advanced approval|4d8f3707-ef9d-4fa8-95de-ef68c0fa74b7|
