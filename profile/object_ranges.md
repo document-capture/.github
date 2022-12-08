@@ -3,9 +3,9 @@
 |From|To|App|App guid|
 |---|---|---|---|
 |50000|50010|Document Capture Training|7b82905f-6866-4e2c-b380-e20d5223e7f2|
-|61000|61090|[Advanced Line Recognition](https://github.com/document-capture/Advanced-Line-Recognition/)|c3e5c32c-513a-47ed-a749-9f9e5ee20342|
-|61090|61100|[Automatic PO number identification](https://github.com/document-capture/Automatic-PO-number-identification)|43b273d9-bd15-485e-b7c9-f2c1a7aba93a|
-|61101|61109|DC Advanced move to company|54c3a6eb-ca9e-4b06-94ba-89ede9f436cd|
+|61000|61089|[Advanced Line Recognition](https://github.com/document-capture/Advanced-Line-Recognition/)|c3e5c32c-513a-47ed-a749-9f9e5ee20342|
+|61090|61099|[Automatic PO number identification](https://github.com/document-capture/Automatic-PO-number-identification)|43b273d9-bd15-485e-b7c9-f2c1a7aba93a|
+|61100|61109|DC Advanced move to company|54c3a6eb-ca9e-4b06-94ba-89ede9f436cd|
 |61110|61119|[DC Advanced Swiss QR-Code Management](https://github.com/document-capture/swiss-qr-code)|f27aa103-a4c5-4886-a6d0-60134c884e26|
 |61120|61129|[Legal archive for Document Capture](https://github.com/document-capture/legal-archive)|
 |61130|61139|[Reprocess pdf files with PowerAutomate](https://github.com/document-capture/reprocess-pdf-with-powerautomate)|3573311b-cb47-48e4-bfc3-5249f890fc14|
