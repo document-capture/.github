@@ -27,11 +27,11 @@ The code will be unregularly maintained or updated.
 - [More tools available here](https://github.com/orgs/document-capture/repositories)
   > If you want some inspiration, follow the links to the list of public repositories
 
-## Remark ##
-You can use all provided code as it is, without any warranty or support by me (the profile owner) or [Continia Software A/S](https://www.continia.com "Continia Software"). 
+## Disclaimer ##
+The provided solutions are used to be a free unofficial proof of concept without any warranty or official support by the repository owner or [Continia Software A/S](https://www.continia.com "Continia Software"). You can use the provided code as it is and customize it according your needs.
 
-## Need help? ##
-As these tools can be used free of charge, we are not offering free services. In case you need assitance feel free to contact: sales-dach@continia.com
+## Support ##
+As these tools can be used free of charge, we are not offering free services. In case you need assitance for one of the provided solutions you can contact the discussions board in the individual repository.
 
 ## Currently used app object ranges and ids ##
 You can find an overview of the object ranges of our provided apps [here](https://github.com/document-capture/.github/blob/main/profile/object_ranges.md).
