@@ -1,23 +1,29 @@
-# Continia Document Capture tools
+# Continia Document Capture extensions
 
-Welcome to a public list of free Document Capture tools and proof of concepts
+Welcome to a public list of free Document Capture apps and extensions
 
 ## About these repositories
-This list of github repositories contains extensions for [Continia Document Capture](http://continia.com/documentcapture-for-dynamics-nav.aspx), which is a solution for processing incoming documents (e.g. purchase invoices) directly from inside Microsoft Dynamics Business Central/NAV!
+This list of github repositories contains extensions for [Continia Document Capture](https://continia.com/solutions/document-capture/), which is a solution for processing incoming documents (e.g. purchase invoices) directly from inside Microsoft Dynamics Business Central/NAV!
 
-The code will be unregularly maintained or updated.
+The provided source code and example apps 
+- are intended to be a proof of concept
+- can be used free
+- are provided as is without any support and warranty
+- are only unregularly maintained or updated
 
 ## Currently available tools
 - [Advanced Line Recognition](https://github.com/document-capture/Advanced-Line-Recognition/)
   > Enhance Document Capture with a few usefull options that will enable you to process most likely 99% of all documents.
-- [Automatic PO number identification](https://github.com/document-capture/Automatic-PO-number-identification)
-  > Do you need to process purchase invoices that has order number references in the invoice lines but do not want to use line recognition? Try this app!
 - [Swiss QR Code integration](https://github.com/document-capture/Swiss-QR-Code-integration)
   > For our Swiss customers we have prepared an example how to process the QR code from incoming invoices
 - [Field rule assistant](https://github.com/document-capture/field-rule-assistant)
   > Do you need often help/examples of advanced field rules with regular expressions? This app helps users to select a complex field rule from a list of pre defined rules
 - [Import OPplus Payment advices](https://github.com/document-capture/Import-OPplus-payment-advices)
   > Capture and register OPplus Payment advices with Document Capture into payment journals
+- [Advanced Document Search](https://github.com/document-capture/advanced-document-search)
+  > Extension to show a preview and field value on the Document Search page
+- [Automatic PO number identification](https://github.com/document-capture/Automatic-PO-number-identification)
+  > Do you need to process purchase invoices that has order number references in the invoice lines but do not want to use line recognition? Try this app!
 - [Broken pdf reprocessing](https://github.com/document-capture/reprocess-pdf-with-powerautomate)
   > A proof of concept that enables customers to send broken pdfs (with bad/no OCR results) to an automated reprocessing based on Microsoft Power Automate
 - [Factbox examples](https://github.com/document-capture/factbox-examples)
