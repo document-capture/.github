@@ -14,6 +14,7 @@
 |61160|61169|[Advanced Document Search](https://github.com/document-capture/advanced-document-search)|db96670f-2bbb-496e-b195-01b6ecdd39d1|
 |61170|61179|[Advanced Expense Management](https://github.com/continia-dach/advanced-expense-management)|4c03d740-509d-4933-8ef2-cb409714633e|
 |61180|61189|[DO Continia reminders](https://github.com/document-output/continia-reminders)|cc0ce002-5e19-4749-ba6c-63095ae9e31a|
+|61190|61199|[Sales order attachments](https://github.com/document-capture/sales-order-attachments)|165481ab-839a-4275-8d3d-3da1ed9815d6|
 |62000|62009|Document Capture - Field rule assistant|f04eda4f-5cf7-45b0-a49c-ac0baaa9e34e|
 |62010|62019|Payment Proposal Document Preview|e3f7da69-87d2-4861-8c5d-e6d39fbd5c67|
 |62021|62021|Document Capture - Approval flow with advanced approval|4d8f3707-ef9d-4fa8-95de-ef68c0fa74b7|
