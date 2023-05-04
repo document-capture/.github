@@ -24,6 +24,7 @@
 |62040|62049|[Document Output - OPplus-payment-advice](https://github.com/document-output/opplus-payment-advice)|ed5fcb5d-01fd-46e4-a935-5dcf52b76771|
 |62041|62050|[XML Utilities](https://github.com/document-capture/xml-utilities)|9c353037-39e7-4566-9247-4bdc8ef38081|
 |62060|62069|[Expense Management Create subrates](https://github.com/continia-dach/em-create-subrates)|4efa063e-7b06-49bb-8be8-7879f9606f55|
+|62070|62079|[Expense Management 3-month rule](https://github.com/continia-dach/em-3month-rule)|c656803e-45f8-453e-b802-b350cb84b755|
 |63010|63011|Continia Partner Demo App|391517ec-0bec-412c-a7d2-2df476b7e77f|
 |63020|63029|Document Capture cross company approval|6b11cf60-8700-44a3-877f-d51926b5c90c|
 |88800|88810|[DEPRECATED]Document Capture QR-Code Management|526feeb5-4f8c-4667-bd6d-60e14a8d66b1|
