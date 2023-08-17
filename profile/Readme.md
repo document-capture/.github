@@ -22,6 +22,8 @@ The provided source code and example apps
   > Capture and register OPplus Payment advices with Document Capture into payment journals
 - [Advanced Document Search](https://github.com/document-capture/advanced-document-search)
   > Extension to show a preview and field value on the Document Search page
+- [DC+MEM Dimension Helper](https://github.com/document-capture/CDC-MEM)
+  > Business Central extension to allow Document Capture to work together with Binary Stream’s Multi Entity Management.
 - [Automatic PO number identification](https://github.com/document-capture/Automatic-PO-number-identification)
   > Do you need to process purchase invoices that has order number references in the invoice lines but do not want to use line recognition? Try this app!
 - [Broken pdf reprocessing](https://github.com/document-capture/reprocess-pdf-with-powerautomate)
