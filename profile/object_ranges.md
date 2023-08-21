@@ -26,6 +26,7 @@
 |62060|62069|[Expense Management Create subrates](https://github.com/continia-dach/em-create-subrates)|4efa063e-7b06-49bb-8be8-7879f9606f55|
 |62070|62079|[Expense Management 3-month rule](https://github.com/continia-dach/em-3month-rule)|c656803e-45f8-453e-b802-b350cb84b755|
 |62080|62089|[Expense Custom per diems](https://github.com/continia-dach/em-custom-per-diem)|f4f88889-d059-499b-a249-35038a3df58e|
+|62090|62099|[Expense Type Filtering](https://github.com/continia-dach/em-expense-type-filter)|2c60eb60-933b-46be-b819-d8f2bf5a2782|
 |63010|63011|Continia Partner Demo App|391517ec-0bec-412c-a7d2-2df476b7e77f|
 |63020|63029|Document Capture cross company approval|6b11cf60-8700-44a3-877f-d51926b5c90c|
 |88800|88810|[DEPRECATED]Document Capture QR-Code Management|526feeb5-4f8c-4667-bd6d-60e14a8d66b1|
