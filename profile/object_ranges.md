@@ -31,5 +31,6 @@
 |63020|63029|Document Capture cross company approval|6b11cf60-8700-44a3-877f-d51926b5c90c|
 |63030|63039|[Document Output - Notification after purchase invoice approval](https://github.com/document-output/dc-approval-notification)|5dfc7608-c972-49d2-b1a7-ec5c247beb8f|
 |63040|63049|[Document Capture - Restricted documents](https://github.com/document-capture/restricted-documents)|b80d1c11-c9f1-4d5b-9675-efefeddf5369|
+|63050|63059|[https://github.com/document-capture/restricted-documents](https://github.com/document-capture/OnPremOCR-Fix)|118d5e3a-c105-4227-8c86-5f8e00b64bd0|
 |88800|88810|[DEPRECATED]Document Capture QR-Code Management|526feeb5-4f8c-4667-bd6d-60e14a8d66b1|
 
