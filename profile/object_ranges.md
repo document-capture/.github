@@ -33,6 +33,7 @@
 |63040|63049|[Document Capture - Restricted documents](https://github.com/document-capture/restricted-documents)|b80d1c11-c9f1-4d5b-9675-efefeddf5369|
 |63050|63059|[OCR On-Premises OCR Fix](https://github.com/document-capture/OnPremOCR-Fix)|118d5e3a-c105-4227-8c86-5f8e00b64bd0|
 |63060|63079|[DC File API](https://github.com/document-capture/DCFileAPI)|c1e1bc23-6017-434a-956b-01cde4c742f1|
-|63080|63089|[Expense Transcation Match"](https://github.com/expensemanagement/expense-transaction-match)|8b6ad4b7-d5e8-4377-9f7f-0f145ee04e6d"|
+|63080|63089|[Expense Transcation Match](https://github.com/expensemanagement/expense-transaction-match)|8b6ad4b7-d5e8-4377-9f7f-0f145ee04e6d|
+|63090|63099|[Find outdated rates](https://github.com/expensemanagement/find-outdated-rates)|62304b89-2613-4d00-9a77-05a840a5176d|
 |88800|88810|[DEPRECATED]Document Capture QR-Code Management|526feeb5-4f8c-4667-bd6d-60e14a8d66b1|
 
